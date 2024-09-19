@@ -1,0 +1,17 @@
+{
+    "name": "mewasim/chatbot",
+    "description": "basic package creation",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mewasim\\Chatbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mewasim",
+            "email": "alfwasim@gmail.com"
+        }
+    ],
+    "require": {}
+}
